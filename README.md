@@ -1,8 +1,8 @@
 # my_first_flutter_project
 
 A new Flutter project.
-
 ## Getting Started
+![Output](img/output.gif)
 
 This project is a starting point for a Flutter application.
 
